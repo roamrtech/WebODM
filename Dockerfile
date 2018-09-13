@@ -1,5 +1,5 @@
 FROM python:3.6
-MAINTAINER Piero Toffanin <pt@masseranolabs.com>
+MAINTAINER Piero Toffanin <pt@masseranolabs.com >
 
 ENV PYTHONUNBUFFERED 1
 ENV PYTHONPATH $PYTHONPATH:/webodm
